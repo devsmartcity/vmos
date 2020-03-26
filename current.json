@@ -1,0 +1,51 @@
+ [
+  {
+    "vfin": {
+        "vers": 1.0.3,
+        "date_update": 26-03-2020,
+        "url": "https://",    
+      }
+  },
+  {
+    "pogo_1": {
+        "vers": 0.170.0,
+        "date_update": 26-03-2020,
+        "url": "https://",    
+      }
+  },
+  {
+    "pogo_1": {
+        "vers": 0.170.0,
+        "date_update": 26-03-2020,
+        "url": "https://",    
+      }
+  },
+  {
+    "gps_joystick": {
+        "vers": 4.1.2,
+        "date_update": 26-03-2020,
+        "url": "https://",    
+      }
+  },
+  {
+    "WeCatch": {
+        "vers": 4.1.2,
+        "date_update": 26-03-2020,
+        "url": "https://",    
+      }
+  },
+  {
+    "poke_genie": {
+        "vers": 4.1.2,
+        "date_update": 26-03-2020,
+        "url": "https://",    
+      }
+  },
+  {
+    "es_explorer": {
+        "vers": 4.2.0.3.5,
+        "date_update": 26-03-2020,
+        "url": "https://",    
+      }
+  },
+]
